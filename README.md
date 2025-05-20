@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samuel Asije
+# 👋 Hi, I'm Asije Samuel
 
 🎯 **Mid-Level Frontend Developer | 5+ Years of Experience**  
 📍 Passionate about building performant, scalable, and secure web applications  
