@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asije Samuel
 
-🎯 ** Frontend Developer | 5+ Years of Experience**  
+🎯 **Frontend Developer | 5+ Years of Experience**  
 📍 Passionate about building performant, scalable, and secure web applications  
 🌍 Remote Team Player | Focused on Clean Code & Developer Experience
 
