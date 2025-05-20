@@ -1,10 +1,4 @@
-# 👋 Hi, I'm Asije Samuel
 
-🎯 **Frontend Developer**  
-📍 Passionate about building performant, scalable, and secure web applications  
-🌍 Remote Team Player | Focused on Clean Code & Developer Experience
-
----
 
 ## 🧑‍💻 About Me
 
